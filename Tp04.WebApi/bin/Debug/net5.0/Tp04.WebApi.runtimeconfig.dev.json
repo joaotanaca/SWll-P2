@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jtana\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jtana\\.nuget\\packages"
+    ]
+  }
+}

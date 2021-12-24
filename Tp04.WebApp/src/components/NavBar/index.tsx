@@ -24,7 +24,7 @@ const NavBar: React.FC<INavBarProps> = ({ returnTo, children }) => {
     }
 
     history.goBack()
-  }, [])
+  }, [history, returnTo])
 
   return (
     <SC.Container>

@@ -8,6 +8,19 @@ export const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
   }
 
+  .container{
+    width: calc(80% - 80px);
+    margin: 0 auto;
+  }
+  
+  html { 
+    background: black;
+    filter: invert(100%);
+    img {
+      filter: invert(100%);
+    }
+  }
+
   body {
     color: #808080;
 
